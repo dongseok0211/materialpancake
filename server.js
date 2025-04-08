@@ -55,7 +55,7 @@ app.post("/make-video", async (req, res) => {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Authorization: `Bearer ${process.env.DID_API_KEY}`
+        Authorization: `Bearer ${N1yYk-WiBxYUecoYvwJMr}`
       },
       body: JSON.stringify({
         script: {
